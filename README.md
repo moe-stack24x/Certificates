@@ -3,9 +3,9 @@
 | 01 | Programming Foundations - Level 1 | ✅ Completed |
 | 02 | Algorithms & Problem Solving - Level 1 | ✅ Completed |
 | 03 | Introduction to Programming with C++ | ✅ Completed |
-| 04 | Algorithms & Problem Solving - Level 1 (Clean Code Solutions) | ✅ Completed |
+| 04 | Algorithms & Problem Solving - Level 1  | ✅ Completed |
 | 05 | Algorithms & Problem Solving - Level 2 | ✅ Completed |
-| 06 | Introduction to Programming Using C++ | ✅ Completed |
+| 06 | Introduction to Programming Using C++ level 2 | ✅ Completed |
 | 07 | Algorithms & Problem Solving - Level 3 | ✅ Completed |
 | 08 | Algorithms & Problem Solving - Level 4 | ✅ Completed |
 | 09 | Foundations Level 2 (Networks & Internet Basics) | ✅ Completed |
