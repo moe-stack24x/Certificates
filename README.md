@@ -3,8 +3,8 @@
 | # | Course Name | Status |
 |--|------------|--------|
 | 01 | [Programming Foundations - Level 1](https://github.com/moe-stack24x/Certificates/blob/main/Certificates/certificate-of-completion-for-programming-foundations-level-1.pdf) | ✅ Completed |
-| 02 | [Introduction to Programming Using C++ - Level 2](https://github.com/moe-stack24x/Certificates/blob/main/Certificates/certificate-of-completion-for-introduction-to-programming-using-c-level-2.pdf) | ✅ Completed |
-| 03 | [Introduction to Programming Using C++ - Level 1](https://github.com/moe-stack24x/Certificates/blob/main/Certificates/certificate-of-completion-for-introduction-to-programming-using-c-level-1.pdf) | ✅ Completed |
+| 02 | [Introduction to Programming Using C++ - Level 1](https://github.com/moe-stack24x/Certificates/blob/main/Certificates/certificate-of-completion-for-introduction-to-programming-using-c-level-1.pdf) | ✅ Completed |
+| 03 | [Introduction to Programming Using C++ - Level 2]([https://github.com/moe-stack24x/Certificates/blob/main/Certificates/certificate-of-completion-for-introduction-to-programming-using-c-level-1.pdf](https://github.com/moe-stack24x/Certificates/blob/main/Certificates/certificate-of-completion-for-introduction-to-programming-using-c-level-2.pdf)) | ✅ Completed |
 | 04 | [Algorithms & Problem Solving - Level 1](https://github.com/moe-stack24x/Certificates/blob/main/Certificates/certificate-of-completion-for-algorithms-problem-solving-level-1.pdf) | ✅ Completed |
 | 05 | [Algorithms & Problem Solving - Level 2](https://github.com/moe-stack24x/Certificates/blob/main/Certificates/certificate-of-completion-for-algorithms-problem-solving-level-2.pdf) | ✅ Completed |
 | 06 | [Introduction to Programming Using C++ - Level 1](https://github.com/moe-stack24x/Certificates/blob/main/Certificates/certificate-of-completion-for-introduction-to-programming-using-c-level-1.pdf) | ✅ Completed |
