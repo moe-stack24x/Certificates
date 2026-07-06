@@ -9,7 +9,7 @@
 | 05 | [Algorithms & Problem Solving - Level 2](LINK_05) | ✅ Completed |
 | 06 | [Introduction to Programming Using C++ Level 2](LINK_06) | ✅ Completed |
 | 07 | [Algorithms & Problem Solving - Level 3](LINK_07) | ✅ Completed |
-| 08 | [Algorithms & Problem Solving - Level 4](LINK_08) | ✅ Completed |
+| 08 | [Algorithms & Problem Solving - Level 4](https://sl1nk.com/wpj4jd6) | ✅ Completed |
 | 09 | [Foundations Level 2 (Networks & Internet Basics)](LINK_09) | ✅ Completed |
 | 10 | [OOP as it Should Be - Concepts](LINK_10) | ✅ Completed |
 | 11 | [OOP as it Should Be - Applications](LINK_11) | ✅ Completed |
