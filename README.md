@@ -13,4 +13,4 @@
 | 11 | OOP as it Should Be - Applications | ✅ Completed |
 | 12 | Data Structures - Level 1 | ✅ Completed |
 | 13 | Algorithms & Problem Solving - Level 5 | ✅ Completed |
-| 14 | Problem Solving Practice - Level 2 | ✅ Completed |
+| 14 | C# Level 1 | ✅ Completed |
