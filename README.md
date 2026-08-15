@@ -16,6 +16,5 @@
 | 12 | [Data Structures - Level 1](Certificates/certificate-of-completion-for-12-data-structures-level1.pdf) | ✅ Completed |
 | 13 | [Algorithms & Problem Solving - Level 5](Certificates/certificate-of-completion-for-13-algorithms-problem-solving-level-5.pdf) | ✅ Completed |
 | 14 | [C# Level 1](Certificates/certificate-of-completion-for-14-c-level-1.pdf) | ✅ Completed |
-| 15 | [Database Level 1 - SQL (Concepts & Practice)](Certificates/certificate-of-completion-for-15-database-level-1-sql-concepts-and-practice.pdf
-) | ✅ Completed |
+| 15 | [Database Level 1 - SQL (Concepts & Practice)](Certificates/certificate-of-completion-for-15-database-level-1-sql-concepts-and-practice.pdf) | ✅ Completed |
 | 16 | [OOP as It Should Be in C#](Certificates/certificate-of-completion-for-16-oop-as-it-should-be-in-c.pdf) | ✅ Completed |
