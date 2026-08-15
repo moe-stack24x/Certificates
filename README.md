@@ -9,7 +9,7 @@
 | 05 | [Algorithms & Problem Solving - Level 2](Certificates/certificate-of-completion-for-algorithms-problem-solving-level-2.pdf) | ✅ Completed |
 | 06 | [Introduction to Programming Using C++ - Level 2](Certificates/certificate-of-completion-for-introduction-to-programming-using-c-level-2.pdf) | ✅ Completed |
 | 07 | [Algorithms & Problem Solving - Level 3](Certificates/certificate-of-completion-for-algorithms-problem-solving-level-3.pdf) | ✅ Completed |
-| 08 | [Algorithms & Problem Solving - Level 4](https://raw.githubusercontent.com/moe-stack24x/Certificates/main/Certificates/certificate-of-completion-for-08-algorithms-problem-solving-level-4.pdf) | ✅ Completed |
+| 08 | [Algorithms & Problem Solving - Level 4](Certificates/certificate-of-completion-for-08-algorithms-problem-solving-level-4.pdf) | ✅ Completed |
 | 09 | [Foundations Level 2 (Networks & Internet Basics)](https://raw.githubusercontent.com/moe-stack24x/Certificates/main/Certificates/certificate-of-completion-for-09-foundations-level-2.pdf) | ✅ Completed |
 | 10 | [OOP as It Should Be - Concepts](https://raw.githubusercontent.com/moe-stack24x/Certificates/main/Certificates/certificate-of-completion-for-10-oop-as-it-should-be-concepts.pdf) | ✅ Completed |
 | 11 | [OOP as It Should Be - Applications](https://raw.githubusercontent.com/moe-stack24x/Certificates/main/Certificates/certificate-of-completion-for-11-oop-as-it-should-be-applications.pdf) | ✅ Completed |
