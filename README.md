@@ -6,7 +6,7 @@
 | 02 | [Algorithms & Problem Solving - Level 1](Certificates/certificate-of-completion-for-algorithms-problem-solving-level-1.pdf) | ✅ Completed |
 | 03 | [Introduction to Programming Using C++ - Level 1](Certificates/certificate-of-completion-for-introduction-to-programming-using-c-level-1.pdf) | ✅ Completed |
 | 04 | [Algorithms & Problem Solving - Level 1 (Solutions)](Certificates/certificate-of-completion-for-algorithms-problem-solving-level-1-solutions.pdf) | ✅ Completed |
-| 05 | [Algorithms & Problem Solving - Level 2](https://raw.githubusercontent.com/moe-stack24x/Certificates/main/Certificates/certificate-of-completion-for-algorithms-problem-solving-level-2.pdf) | ✅ Completed |
+| 05 | [Algorithms & Problem Solving - Level 2](Certificates/certificate-of-completion-for-algorithms-problem-solving-level-2.pdf) | ✅ Completed |
 | 06 | [Introduction to Programming Using C++ - Level 2](https://raw.githubusercontent.com/moe-stack24x/Certificates/main/Certificates/certificate-of-completion-for-introduction-to-programming-using-c-level-2.pdf) | ✅ Completed |
 | 07 | [Algorithms & Problem Solving - Level 3](https://raw.githubusercontent.com/moe-stack24x/Certificates/main/Certificates/certificate-of-completion-for-algorithms-problem-solving-level-3.pdf) | ✅ Completed |
 | 08 | [Algorithms & Problem Solving - Level 4](https://raw.githubusercontent.com/moe-stack24x/Certificates/main/Certificates/certificate-of-completion-for-08-algorithms-problem-solving-level-4.pdf) | ✅ Completed |
