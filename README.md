@@ -18,6 +18,6 @@
 | 14 | [C# Level 1](Certificates/certificate-of-completion-for-14-c-level-1.pdf) | ✅ Completed |
 | 15 | [Database Level 1 - SQL (Concepts & Practice)](Certificates/certificate-of-completion-for-15-database-level-1-sql-concepts-and-practice.pdf) | ✅ Completed |
 | 16 | [OOP as It Should Be in C#](Certificates/certificate-of-completion-for-16-oop-as-it-should-be-in-c.pdf) | ✅ Completed |
-| 17 | [Database & SQL (Projects Practice)](https://github.com/moe-stack24x/Certificates/blob/main/Certificates/certificate-of-completion-for-17-database-sql-projects-practice.pdf) | ✅ Completed |
+| 17 | [Database -SQL (Projects & Practice)](https://github.com/moe-stack24x/Certificates/blob/main/Certificates/certificate-of-completion-for-17-database-sql-projects-practice.pdf) | ✅ Completed |
 | 18 | [C# Database Connectivity (ADO.NET)](https://github.com/moe-stack24x/Certificates/blob/main/Certificates/certificate-of-completion-for-18-c-database-connectivity.pdf) | ✅ Completed |
 | 19 | [Full Real Project - DVLD](Certificates/certificate-of-completion-for-19-full-real-project.pdf) | ✅ Completed |
